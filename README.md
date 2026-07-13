@@ -1,4 +1,4 @@
-# Move F
+# Move Finder
 
 [Link del proyecto](https://jun200529.github.io/movie-finder/)
 
